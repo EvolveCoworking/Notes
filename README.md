@@ -4,24 +4,24 @@
 
 I. A Safe Space
 
-    - Video Surveilance/Recording on interior of space
+- Video Surveilance/Recording on interior of space
 
-    - Smart Lock on Door, for 24-hour access.
+- Smart Lock on Door, for 24-hour access.
 
-    - Deadbolt on bathroom.
+- Deadbolt on bathroom.
 
-    - Pay as you go phone on charger in bathroom, for emergency calling.
-    
+- Pay as you go phone on charger in bathroom, for emergency calling.
+
 II. Respect the Needs of the Other Members
 
-    - Code of Conduct, must be signed by all members and visitors.
+- Code of Conduct, must be signed by all members and visitors.
 
 III. A Self-Managing Space
 
 IV. Freedom Within the Structure
-    
-    - Well-behaved dogs are welcome.
-    
+
+- Well-behaved dogs are welcome.
+
 V. Start Minimally, Add Only What's Truly Needed
-    
-    - What's needed: based on evidence and experimentation rather than guesswork
+
+- What's needed: based on evidence and experimentation rather than guesswork
