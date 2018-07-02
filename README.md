@@ -1,5 +1,20 @@
-I'm trying to take the attitude of not anticipating needs, but seeing what genuine needs arise. So I'm starting with the bare bones -- what's there already, adding only what is absolutely necessary at first (Internet, then later a smart lock, more electrical outlets, better lighting) and then through experimentation discovering what we actually need to add in, and what can be solved in other ways. So the bathroom will start as is, and if there is a clear need for something else then we will add it. But there might be some kind of intermediate solution if you're the only one who needs the shower, like a spray bottle and a towel :-)
+(See [Wiki](https://github.com/EvolveCoworking/Notes/wiki) for further notes and ideas).
 
-I am primarily concerned about creating a shared space where people respect each other's needs. Especially if people are trying to focus, they need to be able to have (enough) quiet, so if someone spends their work hours on the phone, that person probably won't be a good candidate. I'm still working on the foundational principles for the space, but "a safe space" and "a space that's good to work in" are right up at the top of the list.
+# Foundational Principles (A work in progress)
 
-An essential factor in the way the space evolves is that it be a self-managed space. Thus, any request that becomes a regular task for me won't fly. Any additions to the space must be, first and foremost, automatic and self-managed, and candidates must be willing to participate in that self-management. Exactly how that plays out will be an ongoing experiment.
+I. A Safe Space
+    1. Video Surveilance/Recording on interior of space
+    1. Smart Lock on Door, for 24-hour access.
+    1. Deadbolt on bathroom.
+    1. Pay as you go phone on charger in bathroom, for emergency calling.
+    
+II. Respect the Needs of the Other Members
+    1. Code of Conduct, must be signed by all members and visitors.
+
+III. A Self-Managing Space
+
+IV. Freedom Within the Structure
+    1. Well-behaved dogs are welcome.
+    
+V. Start Minimally, Add Only What's Truly Needed
+    1. What's needed: based on evidence and experimentation rather than guesswork
