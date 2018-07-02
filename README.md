@@ -16,6 +16,10 @@ II. Respect the Needs of the Other Members
 
 - Code of Conduct, must be signed by all members and visitors.
 
+- Phone calls or loud conversations must be taken onto the balcony.
+
+- If someone is wearing headphones, assume they are trying to concentrate.
+
 III. A Self-Managing Space
 
 IV. Freedom Within the Structure
@@ -24,4 +28,4 @@ IV. Freedom Within the Structure
 
 V. Start Minimally, Add Only What's Truly Needed
 
-- What's needed: based on evidence and experimentation rather than guesswork
+- What's needed: based on evidence and experimentation, not guesswork and assumptions.
