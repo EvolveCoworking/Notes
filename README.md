@@ -20,6 +20,9 @@ II. Respect the Needs of the Other Members
 
 - If someone is wearing headphones, assume they are trying to concentrate.
 
+- If you are doing anything that would potentially disrupt the
+  Internet service, you must use a VPN.
+
 III. A Self-Managing Space
 
 - Membership requires auto-payment.
