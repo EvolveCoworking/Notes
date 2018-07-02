@@ -1,4 +1,4 @@
-(See [Wiki](https://github.com/EvolveCoworking/Notes/wiki) for further notes and ideas).
+(See [Wiki](https://github.com/EvolveCoworking/Notes/wiki) for notes and ideas).
 
 # Foundational Principles (A work in progress)
 
@@ -14,7 +14,7 @@ I. A Safe Space
 
 II. Respect the Needs of the Other Members
 
-- Code of Conduct, must be signed by all members and visitors.
+- Code of Conduct must be signed by all members and visitors.
 
 - Phone calls or loud conversations must be taken onto the balcony.
 
@@ -22,9 +22,15 @@ II. Respect the Needs of the Other Members
 
 III. A Self-Managing Space
 
+- Membership requires auto-payment.
+
 IV. Freedom Within the Structure
 
 - Well-behaved dogs are welcome.
+
+- Bring your own cooler and coffee mug.
+
+- New ideas and additions should be as automated as possible and must not add to the workload of any particular member.
 
 V. Start Minimally, Add Only What's Truly Needed
 
