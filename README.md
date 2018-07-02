@@ -4,7 +4,7 @@
 
 I. A Safe Space
 
-- Video Surveilance/Recording on interior of space
+- Video Surveilance/Recording for interior.
 
 - Smart Lock on Door, for 24-hour access.
 
