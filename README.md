@@ -2,7 +2,7 @@
 
 # Foundational Principles (A work in progress)
 
-I. A Safe Space
+1. A Safe Space
 
 - Video Surveilance/Recording on interior of space
 
@@ -12,16 +12,16 @@ I. A Safe Space
 
 - Pay as you go phone on charger in bathroom, for emergency calling.
 
-II. Respect the Needs of the Other Members
+2. Respect the Needs of the Other Members
 
 - Code of Conduct, must be signed by all members and visitors.
 
-III. A Self-Managing Space
+3. A Self-Managing Space
 
-IV. Freedom Within the Structure
+4. Freedom Within the Structure
 
 - Well-behaved dogs are welcome.
 
-V. Start Minimally, Add Only What's Truly Needed
+5. Start Minimally, Add Only What's Truly Needed
 
 - What's needed: based on evidence and experimentation rather than guesswork
