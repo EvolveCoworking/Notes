@@ -1,4 +1,4 @@
-(See [Wiki](https://github.com/EvolveCoworking/Notes/wiki) for notes and ideas).
+**See [Wiki](https://github.com/EvolveCoworking/Notes/wiki) for notes and ideas.**
 
 # Foundational Principles (A work in progress)
 
