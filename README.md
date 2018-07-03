@@ -1,6 +1,6 @@
 **See [Wiki](https://github.com/EvolveCoworking/Notes/wiki) for notes and ideas.**
 
-## An Experimental, Self-Managed, Shared Work Space
+### An Experimental, Self-Managed, Shared Work Space
 
 # Foundational Principles (A work in progress)
 
