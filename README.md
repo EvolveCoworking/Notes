@@ -29,14 +29,17 @@ III. A Self-Managing Space
 
 - Membership requires auto-payment.
 
+- Leave the space better than you found it.
+
 IV. Freedom Within the Structure
 
 - Well-behaved dogs are welcome.
 
 - Bring your own cooler and coffee mug.
 
-- New ideas and additions should be as automated as possible and must not add to the workload of any particular member.
-
 V. Start Minimally, Add Only What's Truly Needed
 
 - What's needed: based on evidence and experimentation, not guesswork and assumptions.
+
+- New ideas and additions should be as automated as possible and must not add to the workload of any particular member.
+
