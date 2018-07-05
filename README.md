@@ -2,6 +2,8 @@
 
 ### An Experimental, Self-Managed, Shared Work Space
 
+#### We are starting with monthly memberships only.
+
 # Foundational Principles (A work in progress)
 
 I. A Safe Space
