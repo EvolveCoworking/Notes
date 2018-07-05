@@ -8,6 +8,8 @@
 
 I. A Safe Space
 
+- Code of Conduct must be signed by all members and visitors.
+
 - Video Surveilance/Recording for interior.
 
 - Smart Lock on Door, for 24-hour access.
@@ -17,8 +19,6 @@ I. A Safe Space
 - Pay as you go phone on charger in bathroom, for emergency calling.
 
 II. Respect the Needs of the Other Members
-
-- Code of Conduct must be signed by all members and visitors.
 
 - Phone calls or loud conversations must be taken onto the balcony.
 
