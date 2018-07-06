@@ -1,4 +1,4 @@
-**See [Wiki](https://github.com/EvolveCoworking/Notes/wiki) for notes and ideas.**
+**[See Wiki for notes and ideas.](https://github.com/EvolveCoworking/Notes/wiki)**
 
 ### An Experimental, Self-Managed, Shared Work Space
 
